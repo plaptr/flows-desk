@@ -1,0 +1,17 @@
+{
+  "name": "test_api",
+  "version": "1.0.0",
+  "description": "a simple express api just for testing",
+  "main": "index.js",
+  "repository": "https://github.com/paolo-petralia/api_test",
+  "author": "Paolo Petralia",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3",
+    "mongoose-type-email": "^1.1.2",
+    "resourcejs": "^2.4.0"
+  }
+}
